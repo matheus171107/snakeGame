@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: #191919;
+  background-color: rgb(97, 97, 97);
   display: flex;
   min-height: 100vh;
   align-items: center;
@@ -18,7 +18,7 @@ body {
 }
 
 canvas {
-  background-color: #111;
+  background-color: #929292;
 }
 
 .speed {
